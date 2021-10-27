@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct  5 18:02:22 2021
-
-@author: audre
-"""
 
 class Calculator:
     
